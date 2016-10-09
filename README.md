@@ -1,5 +1,5 @@
 # vis_eleicoes
-Repositorio do projeto de visualização de dados do mestrado.
+Repositório do projeto de visualização de dados do mestrado.
 
 Esses dados são provenientes da base da Justiça Eleitoral brasileira, através de arquivos .zip disponíveis em:
 http://www.tse.jus.br/hotSites/pesquisas-eleitorais/resultados.html
